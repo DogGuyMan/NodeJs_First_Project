@@ -67,6 +67,6 @@ PS D:\강의\마크다운\병특준비\NodeJs\NodeJs실습\NodeJs_Project> node 
 https://developerm.tistory.com/143
 
 > **시작이 반이다.**
-    > 정말 대단한걸 한 것은 아니다. 그래도,
-    > 컴함 1학년 때 C로 "Hello World" 띄워본 이후 지금까지 많은 발전이 있었듯.
-    > 이 Node JS 입문이 한 발짝 더 나아간 것 같다 생각 ㅋㅋㅋㅋ;
+> 정말 대단한걸 한 것은 아니다. 그래도,
+> 컴함 1학년 때 C로 "Hello World" 띄워본 이후 지금까지 많은 발전이 있었듯.
+> 이 Node JS 입문이 한 발짝 더 나아간 것 같다 생각 ㅋㅋㅋㅋ;
